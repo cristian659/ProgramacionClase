@@ -8,11 +8,10 @@
     tools:context=".Menu">
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/menu"
         android:layout_width="144dp"
         android:layout_height="75dp"
         android:gravity="center"
-        android:text="Menu"
         android:textColor="@color/black"
         android:textSize="35dp"
         android:textStyle="bold"
